@@ -5,8 +5,8 @@ const ctx = canvas.getContext("2d")
 let cw = window.innerWidth
 let ch = window.innerHeight
 
-let charArr =['a','b','c','d','e','f'
-,'g','h','i','j','k','l'
+let charArr =['I','M','A','M','S','Y'
+,'A','F','I',''','I','l'
 ,'m','n','o','p','q','r'
 ,'s','t','u','v','w','x'
 ,'y','z', '1','2','3','4'
