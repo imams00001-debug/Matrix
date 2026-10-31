@@ -13,7 +13,7 @@ let charArr =['I','M','A','M','S','Y'
 ,'5','6','7','8', "A", "B", "C", "D", "E"
 ]
 
-let maxCharCount = 500;
+let maxCharCount = 200;
 let fallingCharArr = [];
 let fontSize = 15;
 let maxColumns = cw/fontSize;
