@@ -15,7 +15,7 @@ let charArr =['I','M','A','M','S','Y'
 
 let maxCharCount = 200;
 let fallingCharArr = [];
-let fontSize = 15;
+let fontSize = 35;
 let maxColumns = cw/fontSize;
 canvas.width = cw;
 canvas.height = ch;
